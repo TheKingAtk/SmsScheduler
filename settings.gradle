@@ -1,0 +1,2 @@
+rootProject.name='SmsSheduler'
+include ':app'

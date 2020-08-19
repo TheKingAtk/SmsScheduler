@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SmsSheduler</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="time">Time</string>
+    <string name="send">SEND</string>
+    <string name="message">Message</string>
+</resources>
